@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD001 建立 Thread物件 - .NET 1.0 作法", "TD001 建立 Thread物件 - .NET 1.0 作法\TD001 建立 Thread物件 - .NET 1.0 作法.csproj", "{2EE601D9-DF46-4D1F-9D4F-DD1A30D2CCC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD002 建立 Thread物件 - .NET 2.0 作法", "TD002 建立 Thread物件 - .NET 2.0 作法\TD002 建立 Thread物件 - .NET 2.0 作法.csproj", "{3CA83ED1-D05B-4C82-9962-0B12E2067153}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2EE601D9-DF46-4D1F-9D4F-DD1A30D2CCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EE601D9-DF46-4D1F-9D4F-DD1A30D2CCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EE601D9-DF46-4D1F-9D4F-DD1A30D2CCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA83ED1-D05B-4C82-9962-0B12E2067153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA83ED1-D05B-4C82-9962-0B12E2067153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA83ED1-D05B-4C82-9962-0B12E2067153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA83ED1-D05B-4C82-9962-0B12E2067153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
