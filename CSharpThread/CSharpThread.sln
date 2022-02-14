@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD006 封鎖等候多個執
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD007 無封鎖等候執行緒完成 - 回報事件方式", "TD007 無封鎖等候執行緒完成 - 回報事件方式\TD007 無封鎖等候執行緒完成 - 回報事件方式.csproj", "{E5DA7E22-9055-44F1-A173-9CF664FC7E1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫", "TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫\TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫.csproj", "{42F83E9B-D84E-4F26-9712-A883FAA787F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E5DA7E22-9055-44F1-A173-9CF664FC7E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5DA7E22-9055-44F1-A173-9CF664FC7E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5DA7E22-9055-44F1-A173-9CF664FC7E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F83E9B-D84E-4F26-9712-A883FAA787F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F83E9B-D84E-4F26-9712-A883FAA787F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F83E9B-D84E-4F26-9712-A883FAA787F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F83E9B-D84E-4F26-9712-A883FAA787F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
