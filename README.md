@@ -5,8 +5,8 @@
 |TD001|建立 Thread 物件 - .NET 1.0 作法||
 |TD002|建立 Thread 物件 - .NET 2.0 作法||
 |TD003|建立 Thread 物件 - .NET 3.0 作法||
-||||
-||||
+|TD004|封鎖等候執行緒完成 - Thread.Join||
+|TD005|封鎖等候執行緒完成 - AutoResetEvent||
 ||||
 ||||
 ||||
