@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD012 停止執行緒執行
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD013 停止執行緒執行 - 強制結束 Abort In .NET Framework", "TD013 停止執行緒執行 - 強制結束 Abort In .NET Framework\TD013 停止執行緒執行 - 強制結束 Abort In .NET Framework.csproj", "{CE4AB37A-642E-457E-A5A8-325D2CF75A7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD014 停止執行緒執行 - 輪詢 Polling", "TD014 停止執行緒執行 - 輪詢 Polling\TD014 停止執行緒執行 - 輪詢 Polling.csproj", "{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CE4AB37A-642E-457E-A5A8-325D2CF75A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE4AB37A-642E-457E-A5A8-325D2CF75A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE4AB37A-642E-457E-A5A8-325D2CF75A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

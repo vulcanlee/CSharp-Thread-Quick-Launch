@@ -15,7 +15,7 @@
 |TD011|啟動 Thread，使用前請與背景設定值||
 |TD012|停止執行緒執行 - 強制結束 Abort In .NET 6||
 |TD013|停止執行緒執行 - 強制結束 Abort In .NET Framework|||
-||||
+|TD014|停止執行緒執行 - 輪詢 Polling||
 ||||
 ||||
 
