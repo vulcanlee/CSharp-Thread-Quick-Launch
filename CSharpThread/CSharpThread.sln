@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD013 停止執行緒執行
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD014 停止執行緒執行 - 輪詢 Polling", "TD014 停止執行緒執行 - 輪詢 Polling\TD014 停止執行緒執行 - 輪詢 Polling.csproj", "{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD015 停止執行緒執行 - 取消來源權杖", "TD015 停止執行緒執行 - 取消來源權杖\TD015 停止執行緒執行 - 取消來源權杖.csproj", "{0963705C-5C44-4992-AABD-86E63794349C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0963705C-5C44-4992-AABD-86E63794349C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0963705C-5C44-4992-AABD-86E63794349C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0963705C-5C44-4992-AABD-86E63794349C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0963705C-5C44-4992-AABD-86E63794349C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
