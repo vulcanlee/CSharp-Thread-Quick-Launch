@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD002 建立 Thread物件 -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD003 建立 Thread物件 - .NET 3.0 作法", "TD003 建立 Thread物件 - .NET 3.0 作法\TD003 建立 Thread物件 - .NET 3.0 作法.csproj", "{F1B7B77E-5E38-455B-AED4-028CE762346E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD004 封鎖等候執行緒完成 - Thread.Join", "TD004 封鎖等候執行緒完成 - Thread.Join\TD004 封鎖等候執行緒完成 - Thread.Join.csproj", "{64DEC4B5-CC70-44E8-BE2B-960C0BFF510C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD004 封鎖等候執行緒完成 - Thread.Join", "TD004 封鎖等候執行緒完成 - Thread.Join\TD004 封鎖等候執行緒完成 - Thread.Join.csproj", "{64DEC4B5-CC70-44E8-BE2B-960C0BFF510C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD005 封鎖等候執行緒完成 - AutoResetEvent", "TD005 封鎖等候執行緒完成 - AutoResetEvent\TD005 封鎖等候執行緒完成 - AutoResetEvent.csproj", "{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{64DEC4B5-CC70-44E8-BE2B-960C0BFF510C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64DEC4B5-CC70-44E8-BE2B-960C0BFF510C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64DEC4B5-CC70-44E8-BE2B-960C0BFF510C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
