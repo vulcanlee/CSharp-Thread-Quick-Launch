@@ -7,7 +7,7 @@
 |TD003|建立 Thread 物件 - .NET 3.0 作法||
 |TD004|封鎖等候執行緒完成 - Thread.Join||
 |TD005|封鎖等候執行緒完成 - AutoResetEvent||
-||||
+|TD006|封鎖等候多個執行緒完成 - WaitHandle||
 ||||
 ||||
 ||||

@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD004 封鎖等候執行緒
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD005 封鎖等候執行緒完成 - AutoResetEvent", "TD005 封鎖等候執行緒完成 - AutoResetEvent\TD005 封鎖等候執行緒完成 - AutoResetEvent.csproj", "{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD006 封鎖等候多個執行緒完成 - WaitHandle", "TD006 封鎖等候多個執行緒完成 - WaitHandle\TD006 封鎖等候多個執行緒完成 - WaitHandle.csproj", "{023AB0E6-9D8F-4F81-B0CC-3FB2EBD5DB53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023AB0E6-9D8F-4F81-B0CC-3FB2EBD5DB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023AB0E6-9D8F-4F81-B0CC-3FB2EBD5DB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023AB0E6-9D8F-4F81-B0CC-3FB2EBD5DB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023AB0E6-9D8F-4F81-B0CC-3FB2EBD5DB53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
