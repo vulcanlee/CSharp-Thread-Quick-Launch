@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD008 使用 WebClient 進�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD009 多執行緒非同步作業與取得執行結果範例", "TD009 多執行緒非同步作業與取得執行結果範例\TD009 多執行緒非同步作業與取得執行結果範例.csproj", "{F5E7030E-9690-469D-8675-D4794510C85E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD010 不同優先權的執行緒", "TD010 不同優先權的執行緒\TD010 不同優先權的執行緒.csproj", "{0E2284C5-F0F4-408E-97BC-EF9ECC1A3BBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F5E7030E-9690-469D-8675-D4794510C85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5E7030E-9690-469D-8675-D4794510C85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5E7030E-9690-469D-8675-D4794510C85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2284C5-F0F4-408E-97BC-EF9ECC1A3BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2284C5-F0F4-408E-97BC-EF9ECC1A3BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2284C5-F0F4-408E-97BC-EF9ECC1A3BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2284C5-F0F4-408E-97BC-EF9ECC1A3BBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
