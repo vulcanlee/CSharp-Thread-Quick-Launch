@@ -11,29 +11,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD003 建立 Thread物件 -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD004 封鎖等候執行緒完成 - Thread.Join", "TD004 封鎖等候執行緒完成 - Thread.Join\TD004 封鎖等候執行緒完成 - Thread.Join.csproj", "{64DEC4B5-CC70-44E8-BE2B-960C0BFF510C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD005 封鎖等候執行緒完成 - AutoResetEvent", "TD005 封鎖等候執行緒完成 - AutoResetEvent\TD005 封鎖等候執行緒完成 - AutoResetEvent.csproj", "{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD005 封鎖等候執行緒完成 - AutoResetEvent", "TD005 封鎖等候執行緒完成 - AutoResetEvent\TD005 封鎖等候執行緒完成 - AutoResetEvent.csproj", "{4B4A25B4-19D1-4139-A95C-4A13891D8C9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD006 封鎖等候多個執行緒完成 - WaitHandle", "TD006 封鎖等候多個執行緒完成 - WaitHandle\TD006 封鎖等候多個執行緒完成 - WaitHandle.csproj", "{023AB0E6-9D8F-4F81-B0CC-3FB2EBD5DB53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD006 封鎖等候多個執行緒完成 - WaitHandle", "TD006 封鎖等候多個執行緒完成 - WaitHandle\TD006 封鎖等候多個執行緒完成 - WaitHandle.csproj", "{023AB0E6-9D8F-4F81-B0CC-3FB2EBD5DB53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD007 無封鎖等候執行緒完成 - 回報事件方式", "TD007 無封鎖等候執行緒完成 - 回報事件方式\TD007 無封鎖等候執行緒完成 - 回報事件方式.csproj", "{E5DA7E22-9055-44F1-A173-9CF664FC7E1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD007 無封鎖等候執行緒完成 - 回報事件方式", "TD007 無封鎖等候執行緒完成 - 回報事件方式\TD007 無封鎖等候執行緒完成 - 回報事件方式.csproj", "{E5DA7E22-9055-44F1-A173-9CF664FC7E1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫", "TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫\TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫.csproj", "{42F83E9B-D84E-4F26-9712-A883FAA787F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫", "TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫\TD008 使用 WebClient 進行 EAP 非同步網頁存取呼叫.csproj", "{42F83E9B-D84E-4F26-9712-A883FAA787F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD009 多執行緒非同步作業與取得執行結果範例", "TD009 多執行緒非同步作業與取得執行結果範例\TD009 多執行緒非同步作業與取得執行結果範例.csproj", "{F5E7030E-9690-469D-8675-D4794510C85E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD009 多執行緒非同步作業與取得執行結果範例", "TD009 多執行緒非同步作業與取得執行結果範例\TD009 多執行緒非同步作業與取得執行結果範例.csproj", "{F5E7030E-9690-469D-8675-D4794510C85E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD010 不同優先權的執行緒", "TD010 不同優先權的執行緒\TD010 不同優先權的執行緒.csproj", "{0E2284C5-F0F4-408E-97BC-EF9ECC1A3BBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD010 不同優先權的執行緒", "TD010 不同優先權的執行緒\TD010 不同優先權的執行緒.csproj", "{0E2284C5-F0F4-408E-97BC-EF9ECC1A3BBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD011 啟動 Thread，使用前請與背景設定值", "TD011 啟動 Thread，使用前請與背景設定值\TD011 啟動 Thread，使用前請與背景設定值.csproj", "{6EF9A633-72AE-4F13-AE9B-65877E7DD0B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD011 啟動 Thread，使用前請與背景設定值", "TD011 啟動 Thread，使用前請與背景設定值\TD011 啟動 Thread，使用前請與背景設定值.csproj", "{6EF9A633-72AE-4F13-AE9B-65877E7DD0B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD012 停止執行緒執行 - 強制結束 Abort .NET 6", "TD012 停止執行緒執行 - 強制結束 Abort\TD012 停止執行緒執行 - 強制結束 Abort .NET 6.csproj", "{3ABF193D-ADC9-4517-9871-D9D1F6AA3BA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD012 停止執行緒執行 - 強制結束 Abort .NET 6", "TD012 停止執行緒執行 - 強制結束 Abort\TD012 停止執行緒執行 - 強制結束 Abort .NET 6.csproj", "{3ABF193D-ADC9-4517-9871-D9D1F6AA3BA3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD013 停止執行緒執行 - 強制結束 Abort In .NET Framework", "TD013 停止執行緒執行 - 強制結束 Abort In .NET Framework\TD013 停止執行緒執行 - 強制結束 Abort In .NET Framework.csproj", "{CE4AB37A-642E-457E-A5A8-325D2CF75A7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD014 停止執行緒執行 - 輪詢 Polling", "TD014 停止執行緒執行 - 輪詢 Polling\TD014 停止執行緒執行 - 輪詢 Polling.csproj", "{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD014 停止執行緒執行 - 輪詢 Polling", "TD014 停止執行緒執行 - 輪詢 Polling\TD014 停止執行緒執行 - 輪詢 Polling.csproj", "{408B7DE1-D182-4B5D-A9D9-F5ABBE87294B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD015 停止執行緒執行 - 取消來源權杖", "TD015 停止執行緒執行 - 取消來源權杖\TD015 停止執行緒執行 - 取消來源權杖.csproj", "{0963705C-5C44-4992-AABD-86E63794349C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD015 停止執行緒執行 - 取消來源權杖", "TD015 停止執行緒執行 - 取消來源權杖\TD015 停止執行緒執行 - 取消來源權杖.csproj", "{0963705C-5C44-4992-AABD-86E63794349C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD016 執行緒發生例外異常", "TD016 執行緒發生例外異常\TD016 執行緒發生例外異常.csproj", "{9A9CE859-3F3B-4EF8-B5BC-43A9507C5827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD016 執行緒發生例外異常", "TD016 執行緒發生例外異常\TD016 執行緒發生例外異常.csproj", "{9A9CE859-3F3B-4EF8-B5BC-43A9507C5827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD017  未攔截到例外狀況", "TD017  未攔截到例外狀況\TD017  未攔截到例外狀況.csproj", "{F327C5BA-7F72-4FB9-873C-EF29DD10DDEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{9A9CE859-3F3B-4EF8-B5BC-43A9507C5827}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A9CE859-3F3B-4EF8-B5BC-43A9507C5827}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A9CE859-3F3B-4EF8-B5BC-43A9507C5827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F327C5BA-7F72-4FB9-873C-EF29DD10DDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F327C5BA-7F72-4FB9-873C-EF29DD10DDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F327C5BA-7F72-4FB9-873C-EF29DD10DDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F327C5BA-7F72-4FB9-873C-EF29DD10DDEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
